@@ -30,28 +30,60 @@ class Tap(Tap_GPIO):
         :type tdi: int (0/1)
 
         """
+         # Set TMS and TDI pins accordingly
+        # self.set_TMS(tms)
+        # self.set_TDI(tdi)
+
+        #Toggle TCK
+        # self.set_TCK(0)
+        # time.sleep(0.01)
+        # self.set_TCK(1)
+        # time.sleep(0.01)
         
-        pass
+        self.set_io_data(tms, tdi, 0)
+        self.set_io_data(tms, tdi, 1)
+        
+        #pass
        
     def reset(self):
         """ set TAP state to Test_Logic_Reset """
         # assert TMS for 5 TCKs in a row
-        pass
+         
+        
+        for _ in range(5):
+            self.toggle_tck(1, 0)
+    
 
     def reset2ShiftIR(self):
         """ shift TAP state from reset to shiftIR """
-        
-        pass 
+        #self.reset()
+        # Shift to shiftIR state by toggling TCK with appropriate TMS and TDI values
+        self.toggle_tck(0, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(0, 0)
+        self.toggle_tck(0, 0)
+
+
 
     def exit1IR2ShiftDR(self):
         """ shift TAP state from exit1IR to shiftDR """
 
-        pass
+        self.toggle_tck(1, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(0, 0)
+        self.toggle_tck(0, 0)
 
     def exit1DR2ShiftIR(self):
         """ shift TAP state from exit1DR to shiftIR """
         
-        pass
+        #pass
+        self.toggle_tck(1, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(1, 0)
+        self.toggle_tck(0, 0)
+        self.toggle_tck(0, 0)
 
     def shiftInData(self, tdi_str):    
         """ shift in IR/DR data
@@ -60,8 +92,15 @@ class Tap(Tap_GPIO):
         :type tdo_str: str
 
         """
-
-        pass
+        """ shift TAP state from exit1DR to shiftIR """
+        
+        #pass
+        count = 0
+        for tdi_bit in tdi_str:
+                if(count != len(tdi_str)-1):
+                      self.toggle_tck(0, int(tdi_bit))
+                count = count+1
+        self.toggle_tck(1, int(tdi_str[len(tdi_str)-1]))
 
     def shiftOutData(self, length):
         """ get IR/DR data
@@ -71,6 +110,13 @@ class Tap(Tap_GPIO):
         :returns: int - TDO data
 
         """
+        tdo_str = ""
+        for _ in range(length):
+            # Toggle TCK to shift out TDO data
+            self.toggle_tck(0, 0)
+            # Read the TDO value and append it to the result string
+            tdo_str += str(self.read_tdo_data())
+        return int(tdo_str, 2)
 
         return 0
 
