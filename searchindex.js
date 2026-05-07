@@ -1,0 +1,99 @@
+2025-05-09 08:14:05,697 - tests.smoke.smoke.testExit1IR2ShiftDR - INFO - [36m[1mRunning tests.smoke.smoke.testExit1IR2ShiftDR
+2025-05-09 08:14:05,935 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:06,235 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:06,536 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:06,837 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:07,137 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:07,438 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Run_Test_Idle
+2025-05-09 08:14:07,739 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan
+2025-05-09 08:14:08,039 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_IR_Scan
+2025-05-09 08:14:08,340 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Capture_IR
+2025-05-09 08:14:08,641 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:08,941 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:09,242 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:09,543 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:09,844 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:10,145 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:10,445 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Exit1_IR
+2025-05-09 08:14:10,746 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Update_IR
+2025-05-09 08:14:11,047 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan
+2025-05-09 08:14:11,347 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Capture_DR
+2025-05-09 08:14:11,648 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:11,752 - tests.smoke.smoke.testExit1IR2ShiftDR - INFO - [36m[1mDone with tests.smoke.smoke.testExit1IR2ShiftDR
+
+2025-05-09 08:14:11,757 - tests.smoke.smoke.testReadDeviceCode - INFO - [36m[1mRunning tests.smoke.smoke.testReadDeviceCode
+2025-05-09 08:14:11,995 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:12,295 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:12,596 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:12,896 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:13,197 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:13,498 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Run_Test_Idle
+2025-05-09 08:14:13,798 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan
+2025-05-09 08:14:14,099 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_IR_Scan
+2025-05-09 08:14:14,400 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Capture_IR
+2025-05-09 08:14:14,700 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:15,001 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:15,302 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:15,603 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:15,903 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:16,204 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:16,505 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Exit1_IR
+2025-05-09 08:14:16,805 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Update_IR
+2025-05-09 08:14:17,106 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan
+2025-05-09 08:14:17,407 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Capture_DR
+2025-05-09 08:14:17,707 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:18,008 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:18,309 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:18,609 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:18,910 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:19,211 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:19,512 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:19,812 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:20,113 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:20,414 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:20,714 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:21,015 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:21,316 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:21,616 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:21,917 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:22,218 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:22,519 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:22,819 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:23,120 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:23,421 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:23,721 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:24,022 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:24,323 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:24,624 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:24,924 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:25,225 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:25,526 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:25,826 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:26,127 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:26,428 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:26,729 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:27,029 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_DR
+2025-05-09 08:14:27,330 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Exit1_DR
+2025-05-09 08:14:27,431 - tests.smoke.smoke.testReadDeviceCode - INFO - [36m[1mDone with tests.smoke.smoke.testReadDeviceCode
+
+2025-05-09 08:14:27,434 - tests.smoke.smoke.testReset - INFO - [36m[1mRunning tests.smoke.smoke.testReset
+2025-05-09 08:14:27,683 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:27,983 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:28,283 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:28,584 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:28,885 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:28,986 - tests.smoke.smoke.testReset - INFO - [36m[1mDone with tests.smoke.smoke.testReset
+
+2025-05-09 08:14:28,990 - tests.smoke.smoke.testReset2ShiftIR - INFO - [36m[1mRunning tests.smoke.smoke.testReset2ShiftIR
+2025-05-09 08:14:29,226 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:29,527 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:29,827 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:30,128 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:30,429 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset
+2025-05-09 08:14:30,729 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Run_Test_Idle
+2025-05-09 08:14:31,030 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan
+2025-05-09 08:14:31,331 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Select_IR_Scan
+2025-05-09 08:14:31,631 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Capture_IR
+2025-05-09 08:14:31,932 - /home/postsi/Desktop/temp/PostSiProject/tap/common/loopback.py - INFO - Shift_IR
+2025-05-09 08:14:32,033 - tests.smoke.smoke.testReset2ShiftIR - INFO - [36m[1mDone with tests.smoke.smoke.testReset2ShiftIR
+
